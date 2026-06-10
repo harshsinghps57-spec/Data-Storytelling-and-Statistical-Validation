@@ -1,0 +1,5 @@
+Test,Statistic,p-value,Significant_at_0.05,Decision
+Shapiro-Wilk (Profit Normality),0.2492,0.0,True,Reject H0
+T-Test (Consumer vs Corporate),-0.8462,0.397479,False,Fail to Reject
+ANOVA (Sales by Region),0.8006,0.49332,False,Fail to Reject
+Chi-Square (Ship Mode vs Region),23.8462,0.004551,True,Reject H0
